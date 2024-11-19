@@ -1,0 +1,6 @@
+[package]
+name = "chap6_ENUMS"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
